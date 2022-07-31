@@ -1,0 +1,5 @@
+tab_spaces = 4
+max_width = 100
+match_arm_leading_pipes = "Preserve"
+fn_args_layout = "Compressed"
+
